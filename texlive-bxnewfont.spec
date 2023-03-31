@@ -1,6 +1,6 @@
 Name:		texlive-bxnewfont
 Version:	44173
-Release:	1
+Release:	2
 Summary:	Enhanced \newfont command
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/bxnewfont
